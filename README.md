@@ -20,6 +20,7 @@ result of B:
   
   sort(): 0 seconds
   v1/v2 are different.
+  
   insertion_sort(): 1.29 seconds
   v1/v2 are the same.
 
