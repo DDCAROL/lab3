@@ -1,10 +1,13 @@
-compile:Part A
+compile Part A
 
   make A
-  
-compile:Part B
+
+compile Part B
 
   make B
+
+
+/****************************/
 
 result of B:
 
@@ -18,6 +21,7 @@ result of B:
   
   v1/v2 are the same.
 
+//
 
   when size=10000:
   
@@ -28,7 +32,8 @@ result of B:
   insertion_sort(): 1.29 seconds
   
   v1/v2 are the same.
-
+  
+//
 
   when size=100000:
   
@@ -40,6 +45,7 @@ result of B:
   
   v1/v2 are the same.
 
+//
 
   when size=1000000:
   
@@ -48,6 +54,8 @@ result of B:
   v1/v2 are different.
   
   (等待時間過長)
+
+/****************************/
 
 explanation:
   
